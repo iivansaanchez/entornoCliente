@@ -7,7 +7,7 @@ false si no lo es.*/
 
 let letra = ["T", "R", "W", "A", "G", "M", "Y", "F", "P", "D", "X", "B", "N", "J", "Z", "S", "Q", "V", "H", "L", "C", "K", "E"];
 let numero = "1234567890";
-let dni = "44786847P";
+let dni = "44334455P";
 let numeroDNI="";
 let letraDNI=dni[dni.length-1];
 let res=false;
